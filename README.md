@@ -1,0 +1,1 @@
+The aim of the project is to achieve the highest accuracy classification scores for fourcommon cancer types: colon cancer, breast cancer, lung cancer, and prostate cancer,using microbiome data from human blood.
